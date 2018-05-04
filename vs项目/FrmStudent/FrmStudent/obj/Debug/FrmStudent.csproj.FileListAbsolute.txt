@@ -1,0 +1,12 @@
+E:\VS\vs项目\FrmStudent\FrmStudent\bin\Debug\FrmStudent.exe.config
+E:\VS\vs项目\FrmStudent\FrmStudent\bin\Debug\FrmStudent.exe
+E:\VS\vs项目\FrmStudent\FrmStudent\bin\Debug\FrmStudent.pdb
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.Form1.resources
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.Properties.Resources.resources
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.csproj.GenerateResource.Cache
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.exe
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.pdb
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.Form2.resources
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.Form3.resources
+E:\VS\vs项目\FrmStudent\FrmStudent\obj\Debug\FrmStudent.Form4.resources

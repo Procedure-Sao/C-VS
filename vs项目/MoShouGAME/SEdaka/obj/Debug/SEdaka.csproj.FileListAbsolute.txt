@@ -1,0 +1,11 @@
+E:\VS\vs项目\MoShouGAME\SEdaka\bin\Debug\SEdaka.exe.config
+E:\VS\vs项目\MoShouGAME\SEdaka\bin\Debug\SEdaka.exe
+E:\VS\vs项目\MoShouGAME\SEdaka\bin\Debug\SEdaka.pdb
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.AddMessage.resources
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.FrmMain.resources
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.exe
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.pdb
+E:\VS\vs项目\MoShouGAME\SEdaka\obj\Debug\SEdaka.FrmRecord.resources

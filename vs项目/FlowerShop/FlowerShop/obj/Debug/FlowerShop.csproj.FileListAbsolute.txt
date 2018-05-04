@@ -1,0 +1,11 @@
+E:\VS\vs项目\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe.config
+E:\VS\vs项目\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe
+E:\VS\vs项目\FlowerShop\FlowerShop\bin\Debug\FlowerShop.pdb
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Form1.resources
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.Cache
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.exe
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.pdb
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.ReaderFlower.resources
+E:\VS\vs项目\FlowerShop\FlowerShop\obj\Debug\FlowerShop.updateflower.resources

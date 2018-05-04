@@ -1,0 +1,6 @@
+E:\VS\vs项目\十六章2\十六章2\bin\Debug\十六章2.exe.config
+E:\VS\vs项目\十六章2\十六章2\bin\Debug\十六章2.exe
+E:\VS\vs项目\十六章2\十六章2\bin\Debug\十六章2.pdb
+E:\VS\vs项目\十六章2\十六章2\obj\Debug\十六章2.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\十六章2\十六章2\obj\Debug\十六章2.exe
+E:\VS\vs项目\十六章2\十六章2\obj\Debug\十六章2.pdb

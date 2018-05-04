@@ -1,0 +1,13 @@
+E:\VS\vs项目\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+E:\VS\vs项目\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+E:\VS\vs项目\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.denglu.resources
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pwd.resources
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.guanli1.resources
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.caidan.resources
+E:\VS\vs项目\SuperMarket\SuperMarket\obj\Debug\SuperMarket.tianxiu.resources

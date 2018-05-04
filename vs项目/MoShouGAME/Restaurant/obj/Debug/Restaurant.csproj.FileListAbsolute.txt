@@ -1,0 +1,6 @@
+E:\VS\vs项目\MoShouGAME\Restaurant\bin\Debug\Restaurant.exe.config
+E:\VS\vs项目\MoShouGAME\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\Restaurant\bin\Debug\Restaurant.exe
+E:\VS\vs项目\MoShouGAME\Restaurant\bin\Debug\Restaurant.pdb
+E:\VS\vs项目\MoShouGAME\Restaurant\obj\Debug\Restaurant.exe
+E:\VS\vs项目\MoShouGAME\Restaurant\obj\Debug\Restaurant.pdb

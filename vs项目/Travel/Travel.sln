@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel", "Travel\Travel.csproj", "{59B37928-6938-45AF-BFC9-01F43AD9BF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fly", "Fly\Fly.csproj", "{12C6E234-94BE-4429-A64D-98AF96A3F5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParse", "XmlParse\XmlParse.csproj", "{8AE1C16A-9718-42C1-9289-D46698A382BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B37928-6938-45AF-BFC9-01F43AD9BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B37928-6938-45AF-BFC9-01F43AD9BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B37928-6938-45AF-BFC9-01F43AD9BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B37928-6938-45AF-BFC9-01F43AD9BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C6E234-94BE-4429-A64D-98AF96A3F5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C6E234-94BE-4429-A64D-98AF96A3F5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C6E234-94BE-4429-A64D-98AF96A3F5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C6E234-94BE-4429-A64D-98AF96A3F5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE1C16A-9718-42C1-9289-D46698A382BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE1C16A-9718-42C1-9289-D46698A382BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE1C16A-9718-42C1-9289-D46698A382BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE1C16A-9718-42C1-9289-D46698A382BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

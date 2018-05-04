@@ -1,0 +1,6 @@
+E:\VS\vs项目\demo1\demo1\bin\Debug\demo1.exe.config
+E:\VS\vs项目\demo1\demo1\bin\Debug\demo1.exe
+E:\VS\vs项目\demo1\demo1\bin\Debug\demo1.pdb
+E:\VS\vs项目\demo1\demo1\obj\Debug\demo1.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\demo1\demo1\obj\Debug\demo1.exe
+E:\VS\vs项目\demo1\demo1\obj\Debug\demo1.pdb

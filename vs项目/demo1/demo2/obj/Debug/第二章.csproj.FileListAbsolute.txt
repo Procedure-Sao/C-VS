@@ -1,0 +1,6 @@
+E:\VS\vs项目\demo1\demo2\bin\Debug\demo2.exe.config
+E:\VS\vs项目\demo1\demo2\obj\Debug\demo2.exe
+E:\VS\vs项目\demo1\demo2\obj\Debug\demo2.pdb
+E:\VS\vs项目\demo1\demo2\bin\Debug\demo2.exe
+E:\VS\vs项目\demo1\demo2\bin\Debug\demo2.pdb
+E:\VS\vs项目\demo1\demo2\obj\Debug\第二章.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\VS\vs项目\MoShouGAME\Danli\bin\Debug\Danli.exe.config
+E:\VS\vs项目\MoShouGAME\Danli\bin\Debug\Danli.exe
+E:\VS\vs项目\MoShouGAME\Danli\bin\Debug\Danli.pdb
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.Form1.resources
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.exe
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.pdb
+E:\VS\vs项目\MoShouGAME\Danli\bin\Debug\Interop.WMPLib.dll
+E:\VS\vs项目\MoShouGAME\Danli\bin\Debug\AxInterop.WMPLib.dll
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Interop.WMPLib.dll
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\AxInterop.WMPLib.dll
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.csproj.ResolveComReference.cache
+E:\VS\vs项目\MoShouGAME\Danli\obj\Debug\Danli.FrmPlay.resources

@@ -1,0 +1,6 @@
+E:\VS\vs项目\上机1\第三章\bin\Debug\第三章.exe.config
+E:\VS\vs项目\上机1\第三章\bin\Debug\第三章.exe
+E:\VS\vs项目\上机1\第三章\bin\Debug\第三章.pdb
+E:\VS\vs项目\上机1\第三章\obj\Debug\第三章.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\上机1\第三章\obj\Debug\第三章.exe
+E:\VS\vs项目\上机1\第三章\obj\Debug\第三章.pdb

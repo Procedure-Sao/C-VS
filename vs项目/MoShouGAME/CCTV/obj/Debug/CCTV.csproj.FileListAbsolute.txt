@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\CCTV\bin\Debug\CCTV.exe.config
+E:\VS\vs项目\MoShouGAME\CCTV\bin\Debug\CCTV.exe
+E:\VS\vs项目\MoShouGAME\CCTV\bin\Debug\CCTV.pdb
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.Form1.resources
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.exe
+E:\VS\vs项目\MoShouGAME\CCTV\obj\Debug\CCTV.pdb

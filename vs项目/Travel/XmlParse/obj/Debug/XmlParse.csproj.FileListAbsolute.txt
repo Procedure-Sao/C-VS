@@ -1,0 +1,9 @@
+E:\VS\vs项目\Travel\XmlParse\bin\Debug\XmlParse.exe.config
+E:\VS\vs项目\Travel\XmlParse\bin\Debug\XmlParse.exe
+E:\VS\vs项目\Travel\XmlParse\bin\Debug\XmlParse.pdb
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.FrmsShow.resources
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.Properties.Resources.resources
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.csproj.GenerateResource.Cache
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.exe
+E:\VS\vs项目\Travel\XmlParse\obj\Debug\XmlParse.pdb

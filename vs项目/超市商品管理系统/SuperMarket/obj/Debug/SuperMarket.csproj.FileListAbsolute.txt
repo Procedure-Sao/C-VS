@@ -1,0 +1,10 @@
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmAbout.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmEditCommodity.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmEditSort.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmLogin.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmSuperMarket.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmSuperMarketMain.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmChangePwd.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.FrmSuperMarketSort.resources
+E:\VS\vs项目\超市商品管理系统\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache

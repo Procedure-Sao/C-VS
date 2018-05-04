@@ -1,0 +1,5 @@
+E:\VS\vs项目\Travel\Fly\bin\Debug\Fly.exe.config
+E:\VS\vs项目\Travel\Fly\bin\Debug\Fly.exe
+E:\VS\vs项目\Travel\Fly\bin\Debug\Fly.pdb
+E:\VS\vs项目\Travel\Fly\obj\Debug\Fly.exe
+E:\VS\vs项目\Travel\Fly\obj\Debug\Fly.pdb

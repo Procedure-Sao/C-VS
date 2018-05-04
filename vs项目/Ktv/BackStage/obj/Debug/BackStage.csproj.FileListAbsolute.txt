@@ -1,0 +1,16 @@
+E:\VS\vs项目\Ktv\BackStage\bin\Debug\BackStage.exe.config
+E:\VS\vs项目\Ktv\BackStage\bin\Debug\BackStage.exe
+E:\VS\vs项目\Ktv\BackStage\bin\Debug\BackStage.pdb
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.Form1.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.Properties.Resources.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.csproj.GenerateResource.Cache
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.exe
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.pdb
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.zhuye.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.addsinger.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.addsong.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.readersinger.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.readersong.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.xiugai.resources
+E:\VS\vs项目\Ktv\BackStage\obj\Debug\BackStage.address.resources

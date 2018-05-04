@@ -1,0 +1,10 @@
+c:\users\82551\documents\visual studio 2012\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\VS\vs项目\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\VS\vs项目\Cinema\Cinema\bin\Debug\Cinema.exe
+E:\VS\vs项目\Cinema\Cinema\bin\Debug\Cinema.pdb
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.exe
+E:\VS\vs项目\Cinema\Cinema\obj\Debug\Cinema.pdb

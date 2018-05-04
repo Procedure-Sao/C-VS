@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA0333DA-4163-43E3-84FD-0909668B1D5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ktv</RootNamespace>
+    <AssemblyName>Ktv</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bofang.cs" />
+    <Compile Include="gedan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gedan.Designer.cs">
+      <DependentUpon>gedan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs" />
+    <Compile Include="Playlist.cs" />
+    <Compile Include="yidian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yidian.Designer.cs">
+      <DependentUpon>yidian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zishu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zishu.Designer.cs">
+      <DependentUpon>zishu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="leixing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="leixing.Designer.cs">
+      <DependentUpon>leixing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="music.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="music.Designer.cs">
+      <DependentUpon>music.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pinyin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pinyin.Designer.cs">
+      <DependentUpon>pinyin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="singer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="singer.Designer.cs">
+      <DependentUpon>singer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="gedan.resx">
+      <DependentUpon>gedan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="leixing.resx">
+      <DependentUpon>leixing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="music.resx">
+      <DependentUpon>music.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pinyin.resx">
+      <DependentUpon>pinyin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="singer.resx">
+      <DependentUpon>singer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yidian.resx">
+      <DependentUpon>yidian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zishu.resx">
+      <DependentUpon>zishu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\%24this.Icon.ico" />
+    <Content Include="img\couple.png" />
+    <Content Include="img\dalu.png" />
+    <Content Include="img\erge.png" />
+    <Content Include="img\female.png" />
+    <Content Include="img\jingdianlaoge.png" />
+    <Content Include="img\katongdongman.png" />
+    <Content Include="img\lvOrder.BackgroundImage.png" />
+    <Content Include="img\lvSinger.BackgroundImage.png" />
+    <Content Include="img\lvSingerType.BackgroundImage.png" />
+    <Content Include="img\lvSongList.BackgroundImage.png" />
+    <Content Include="img\lvSongType.BackgroundImage.png" />
+    <Content Include="img\lvWordCount.BackgroundImage.png" />
+    <Content Include="img\male.png" />
+    <Content Include="img\order1.png" />
+    <Content Include="img\order2.png" />
+    <Content Include="img\order3.png" />
+    <Content Include="img\order4.png" />
+    <Content Include="img\order5.png" />
+    <Content Include="img\oumei.png" />
+    <Content Include="img\picPhoto.Image.png" />
+    <Content Include="img\pnlCenter.BackgroundImage.png" />
+    <Content Include="img\pnlMiddle.BackgroundImage.png" />
+    <Content Include="img\pnlTop.BackgroundImage.png" />
+    <Content Include="img\remenliuxing.png" />
+    <Content Include="img\rihan.png" />
+    <Content Include="img\taiwan.png" />
+    <Content Include="img\toolStripButton1.Image.png" />
+    <Content Include="img\tsbtnAgain.Image.png" />
+    <Content Include="img\tsbtnCut.Image.png" />
+    <Content Include="img\tsbtnExit.Image.png" />
+    <Content Include="img\tsbtnHome.Image.png" />
+    <Content Include="img\tsbtnOrdered.Image.png" />
+    <Content Include="img\tsbtnService.Image.png" />
+    <Content Include="img\tsMain.BackgroundImage.png" />
+    <Content Include="img\tsSinger.BackgroundImage.png" />
+    <Content Include="img\tsSongList.BackgroundImage.png" />
+    <Content Include="img\tsWordCount.BackgroundImage.png" />
+    <Content Include="img\xianggang.png" />
+    <Content Include="img\xiqu.png" />
+    <Content Include="img\yingshijinqu.png" />
+    <Content Include="img\刘佳.jpg" />
+    <Content Include="img\刘欢.jpg" />
+    <Content Include="img\双笙.jpg" />
+    <Content Include="img\叮当.jpg" />
+    <Content Include="img\周深.jpg" />
+    <Content Include="img\张敬轩.jpg" />
+    <Content Include="img\校长.jpeg" />
+    <Content Include="img\河图.jpg" />
+    <Content Include="img\王菲.jpg" />
+    <Content Include="img\薛之谦.jpg" />
+    <Content Include="img\赵雷.jpg" />
+    <Content Include="img\郑伊健.jpg" />
+    <Content Include="img\陈奕迅.jpg" />
+    <Content Include="img\韩子曦.png" />
+    <Content Include="img\韩安旭.jpg" />
+    <Content Include="img\鹿晗.jpg" />
+    <Content Include="img\齐秦.jpg" />
+    <None Include="Resources\tsbtnExit.Image.png" />
+    <None Include="Resources\lvOrder.BackgroundImage.png" />
+    <None Include="Resources\lvSongList.BackgroundImage.png" />
+    <None Include="Resources\lvSongType.BackgroundImage.png" />
+    <None Include="Resources\pnlMiddle.BackgroundImage.png" />
+    <None Include="Resources\tsbtnHome.Image.png" />
+    <None Include="Resources\tsbtnService.Image.png" />
+    <None Include="Resources\tsbtnOrdered.Image.png" />
+    <None Include="Resources\tsbtnCut.Image.png" />
+    <None Include="Resources\tsbtnAgain.Image.png" />
+    <None Include="Resources\order5.png" />
+    <None Include="Resources\order4.png" />
+    <None Include="Resources\order3.png" />
+    <None Include="Resources\order2.png" />
+    <None Include="Resources\order1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

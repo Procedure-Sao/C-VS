@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第三章", "第三章\第三章.csproj", "{69E12805-9065-4B5F-8961-61C809CFF7A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "上机2", "上机2\上机2.csproj", "{25B9F78E-1097-424B-9B7A-BF8EFC395D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E12805-9065-4B5F-8961-61C809CFF7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E12805-9065-4B5F-8961-61C809CFF7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E12805-9065-4B5F-8961-61C809CFF7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E12805-9065-4B5F-8961-61C809CFF7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B9F78E-1097-424B-9B7A-BF8EFC395D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B9F78E-1097-424B-9B7A-BF8EFC395D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B9F78E-1097-424B-9B7A-BF8EFC395D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B9F78E-1097-424B-9B7A-BF8EFC395D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

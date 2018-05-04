@@ -1,0 +1,10 @@
+E:\VS\vs项目\MoShouGAME\MyOffice1\bin\Debug\MyOffice1.exe.config
+E:\VS\vs项目\MoShouGAME\MyOffice1\bin\Debug\MyOffice1.exe
+E:\VS\vs项目\MoShouGAME\MyOffice1\bin\Debug\MyOffice1.pdb
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.FrmShow.resources
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.FrmJudge.resources
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.exe
+E:\VS\vs项目\MoShouGAME\MyOffice1\obj\Debug\MyOffice1.pdb

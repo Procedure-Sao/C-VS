@@ -1,0 +1,9 @@
+E:\VS\vs项目\seven demo\seven demo\bin\Debug\seven demo.exe.config
+E:\VS\vs项目\seven demo\seven demo\bin\Debug\seven demo.exe
+E:\VS\vs项目\seven demo\seven demo\bin\Debug\seven demo.pdb
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven demo.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven_demo.Form1.resources
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven_demo.Properties.Resources.resources
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven demo.csproj.GenerateResource.Cache
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven demo.exe
+E:\VS\vs项目\seven demo\seven demo\obj\Debug\seven demo.pdb

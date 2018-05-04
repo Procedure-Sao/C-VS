@@ -1,0 +1,6 @@
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\bin\Debug\Sequence.exe.config
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\bin\Debug\Sequence.exe
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\bin\Debug\Sequence.pdb
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\obj\Debug\Sequence.exe
+c:\Users\82551\documents\visual studio 2012\Projects\Cinema\Sequence\obj\Debug\Sequence.pdb

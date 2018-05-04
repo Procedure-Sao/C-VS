@@ -1,0 +1,9 @@
+E:\VS\vs项目\Travel\Travel\bin\Debug\Travel.exe.config
+E:\VS\vs项目\Travel\Travel\bin\Debug\Travel.exe
+E:\VS\vs项目\Travel\Travel\bin\Debug\Travel.pdb
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.Properties.Resources.resources
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.Cache
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.exe
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.pdb
+E:\VS\vs项目\Travel\Travel\obj\Debug\Travel.frmshow.resources

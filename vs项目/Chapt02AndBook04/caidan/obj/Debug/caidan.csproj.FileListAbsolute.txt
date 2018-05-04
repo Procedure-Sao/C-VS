@@ -1,0 +1,10 @@
+E:\VS\vs项目\Chapt02AndBook04\caidan\bin\Debug\caidan.exe.config
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\Chapt02AndBook04.Form1.resources
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.shabi.resources
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.Properties.Resources.resources
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.csproj.GenerateResource.Cache
+E:\VS\vs项目\Chapt02AndBook04\caidan\bin\Debug\caidan.exe
+E:\VS\vs项目\Chapt02AndBook04\caidan\bin\Debug\caidan.pdb
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.exe
+E:\VS\vs项目\Chapt02AndBook04\caidan\obj\Debug\caidan.pdb

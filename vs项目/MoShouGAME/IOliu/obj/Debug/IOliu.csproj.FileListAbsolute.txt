@@ -1,0 +1,6 @@
+E:\VS\vs项目\MoShouGAME\IOliu\bin\Debug\IOliu.exe.config
+E:\VS\vs项目\MoShouGAME\IOliu\bin\Debug\IOliu.exe
+E:\VS\vs项目\MoShouGAME\IOliu\bin\Debug\IOliu.pdb
+E:\VS\vs项目\MoShouGAME\IOliu\obj\Debug\IOliu.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\IOliu\obj\Debug\IOliu.exe
+E:\VS\vs项目\MoShouGAME\IOliu\obj\Debug\IOliu.pdb

@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\NewDemo5\bin\Debug\NewDemo5.exe.config
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\NewDemo5.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\CheckupServices.Form1.resources
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\NewDemo5.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\NewDemo5.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\NewDemo5\bin\Debug\NewDemo5.exe
+E:\VS\vs项目\MoShouGAME\NewDemo5\bin\Debug\NewDemo5.pdb
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\NewDemo5.exe
+E:\VS\vs项目\MoShouGAME\NewDemo5\obj\Debug\NewDemo5.pdb

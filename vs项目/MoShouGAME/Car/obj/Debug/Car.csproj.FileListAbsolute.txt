@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\Car\bin\Debug\Car.exe.config
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.Form1.resources
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\Car\bin\Debug\Car.exe
+E:\VS\vs项目\MoShouGAME\Car\bin\Debug\Car.pdb
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.exe
+E:\VS\vs项目\MoShouGAME\Car\obj\Debug\Car.pdb

@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\Computer\bin\Debug\Computer.exe.config
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.Form1.resources
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\Computer\bin\Debug\Computer.exe
+E:\VS\vs项目\MoShouGAME\Computer\bin\Debug\Computer.pdb
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.exe
+E:\VS\vs项目\MoShouGAME\Computer\obj\Debug\Computer.pdb

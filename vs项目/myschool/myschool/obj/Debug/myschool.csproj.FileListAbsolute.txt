@@ -1,0 +1,11 @@
+E:\VS\vs项目\myschool\myschool\bin\Debug\myschool.exe.config
+E:\VS\vs项目\myschool\myschool\bin\Debug\myschool.exe
+E:\VS\vs项目\myschool\myschool\bin\Debug\myschool.pdb
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.Properties.Resources.resources
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.csproj.GenerateResource.Cache
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.exe
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.pdb
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.QQ.resources
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.denglu.resources
+E:\VS\vs项目\myschool\myschool\obj\Debug\myschool.huanyingcs.resources

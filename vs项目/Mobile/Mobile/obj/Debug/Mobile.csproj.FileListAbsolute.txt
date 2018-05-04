@@ -1,0 +1,11 @@
+E:\VS\vs项目\Mobile\Mobile\bin\Debug\Mobile.exe.config
+E:\VS\vs项目\Mobile\Mobile\bin\Debug\Mobile.exe
+E:\VS\vs项目\Mobile\Mobile\bin\Debug\Mobile.pdb
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.AddMessage.resources
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.frmMain.resources
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.Properties.Resources.resources
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.csproj.GenerateResource.Cache
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.exe
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.pdb
+E:\VS\vs项目\Mobile\Mobile\obj\Debug\Mobile.ReadMessage.resources

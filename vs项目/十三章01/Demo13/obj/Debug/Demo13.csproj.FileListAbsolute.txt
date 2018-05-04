@@ -1,0 +1,12 @@
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\bin\Debug\Demo13.exe.config
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\bin\Debug\Demo13.exe
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\bin\Debug\Demo13.pdb
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\obj\Debug\Demo13.exe
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\obj\Debug\Demo13.pdb
+c:\users\mrzhao\documents\visual studio 2012\Projects\Demo13\Demo13\obj\Debug\Demo13.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\十三章01\Demo13\bin\Debug\Demo13.exe.config
+E:\VS\vs项目\十三章01\Demo13\obj\Debug\Demo13.exe
+E:\VS\vs项目\十三章01\Demo13\obj\Debug\Demo13.pdb
+E:\VS\vs项目\十三章01\Demo13\bin\Debug\Demo13.exe
+E:\VS\vs项目\十三章01\Demo13\bin\Debug\Demo13.pdb
+E:\VS\vs项目\十三章01\Demo13\obj\Debug\Demo13.csprojResolveAssemblyReference.cache

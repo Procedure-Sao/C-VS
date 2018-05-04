@@ -1,0 +1,5 @@
+E:\VS\vs项目\MoShouGAME\Xml\bin\Debug\Xml.exe.config
+E:\VS\vs项目\MoShouGAME\Xml\bin\Debug\Xml.exe
+E:\VS\vs项目\MoShouGAME\Xml\bin\Debug\Xml.pdb
+E:\VS\vs项目\MoShouGAME\Xml\obj\Debug\Xml.exe
+E:\VS\vs项目\MoShouGAME\Xml\obj\Debug\Xml.pdb

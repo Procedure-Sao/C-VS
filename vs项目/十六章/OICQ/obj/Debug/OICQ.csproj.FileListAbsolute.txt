@@ -1,0 +1,6 @@
+F:\C#\OICQ\OICQ\bin\Debug\OICQ.exe.config
+F:\C#\OICQ\OICQ\obj\Debug\OICQ.csprojResolveAssemblyReference.cache
+F:\C#\OICQ\OICQ\bin\Debug\OICQ.exe
+F:\C#\OICQ\OICQ\bin\Debug\OICQ.pdb
+F:\C#\OICQ\OICQ\obj\Debug\OICQ.exe
+F:\C#\OICQ\OICQ\obj\Debug\OICQ.pdb

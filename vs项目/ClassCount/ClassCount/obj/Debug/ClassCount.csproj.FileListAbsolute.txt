@@ -1,0 +1,9 @@
+E:\VS\vs项目\ClassCount\ClassCount\bin\Debug\ClassCount.exe.config
+E:\VS\vs项目\ClassCount\ClassCount\bin\Debug\ClassCount.exe
+E:\VS\vs项目\ClassCount\ClassCount\bin\Debug\ClassCount.pdb
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.Form1.resources
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.Properties.Resources.resources
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.csproj.GenerateResource.Cache
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.exe
+E:\VS\vs项目\ClassCount\ClassCount\obj\Debug\ClassCount.pdb

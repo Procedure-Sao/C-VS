@@ -1,0 +1,5 @@
+E:\VS\vs项目\上机1\上机2\bin\Debug\上机2.exe.config
+E:\VS\vs项目\上机1\上机2\bin\Debug\上机2.exe
+E:\VS\vs项目\上机1\上机2\bin\Debug\上机2.pdb
+E:\VS\vs项目\上机1\上机2\obj\Debug\上机2.exe
+E:\VS\vs项目\上机1\上机2\obj\Debug\上机2.pdb

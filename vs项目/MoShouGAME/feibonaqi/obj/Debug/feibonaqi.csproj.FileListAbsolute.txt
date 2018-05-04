@@ -1,0 +1,5 @@
+E:\VS\vs项目\MoShouGAME\feibonaqi\bin\Debug\feibonaqi.exe.config
+E:\VS\vs项目\MoShouGAME\feibonaqi\bin\Debug\feibonaqi.exe
+E:\VS\vs项目\MoShouGAME\feibonaqi\bin\Debug\feibonaqi.pdb
+E:\VS\vs项目\MoShouGAME\feibonaqi\obj\Debug\feibonaqi.exe
+E:\VS\vs项目\MoShouGAME\feibonaqi\obj\Debug\feibonaqi.pdb

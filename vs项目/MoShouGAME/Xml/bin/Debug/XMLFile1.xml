@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Books>
+  <book id="001">
+    <bookname>初始java</bookname>
+    <bookprice>36</bookprice>
+    <bookuser>渣渣</bookuser>
+  </book>
+  <book id="002">
+    <bookname>初始Html</bookname>
+    <bookprice>38</bookprice>
+    <bookuser>渣渣</bookuser>
+  </book>
+  <book id="003">
+    <bookname>初始C#</bookname>
+    <bookprice>25</bookprice>
+    <bookuser>渣渣</bookuser>
+  </book>
+  
+  </Books>
+
+
+

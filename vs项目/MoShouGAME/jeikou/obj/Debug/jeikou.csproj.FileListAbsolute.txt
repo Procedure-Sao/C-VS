@@ -1,0 +1,6 @@
+E:\VS\vs项目\MoShouGAME\jeikou\bin\Debug\jeikou.exe.config
+E:\VS\vs项目\MoShouGAME\jeikou\bin\Debug\jeikou.exe
+E:\VS\vs项目\MoShouGAME\jeikou\bin\Debug\jeikou.pdb
+E:\VS\vs项目\MoShouGAME\jeikou\obj\Debug\jeikou.exe
+E:\VS\vs项目\MoShouGAME\jeikou\obj\Debug\jeikou.pdb
+E:\VS\vs项目\MoShouGAME\jeikou\obj\Debug\jeikou.csprojResolveAssemblyReference.cache

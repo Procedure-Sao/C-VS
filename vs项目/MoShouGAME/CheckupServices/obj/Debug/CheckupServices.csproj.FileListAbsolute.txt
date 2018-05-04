@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\CheckupServices\bin\Debug\CheckupServices.exe.config
+E:\VS\vs项目\MoShouGAME\CheckupServices\bin\Debug\CheckupServices.exe
+E:\VS\vs项目\MoShouGAME\CheckupServices\bin\Debug\CheckupServices.pdb
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.Form1.resources
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.exe
+E:\VS\vs项目\MoShouGAME\CheckupServices\obj\Debug\CheckupServices.pdb

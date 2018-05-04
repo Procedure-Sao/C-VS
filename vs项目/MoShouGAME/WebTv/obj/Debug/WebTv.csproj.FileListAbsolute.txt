@@ -1,0 +1,9 @@
+E:\VS\vs项目\MoShouGAME\WebTv\bin\Debug\WebTv.exe.config
+E:\VS\vs项目\MoShouGAME\WebTv\bin\Debug\WebTv.exe
+E:\VS\vs项目\MoShouGAME\WebTv\bin\Debug\WebTv.pdb
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.csprojResolveAssemblyReference.cache
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.Form1.resources
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.Properties.Resources.resources
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.csproj.GenerateResource.Cache
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.exe
+E:\VS\vs项目\MoShouGAME\WebTv\obj\Debug\WebTv.pdb
